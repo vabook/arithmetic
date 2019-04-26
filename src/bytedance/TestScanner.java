@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
 * @author vabook@163.com
 * @date 2019年4月25日 下午5:20:32
+* 测试Scanner类
 *
 */
 public class TestScanner {
