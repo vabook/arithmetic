@@ -66,7 +66,6 @@ public class RedMan {
 			 
 		 }
 		
-		//每个用户的被关注列表
 		
 		
 	}
