@@ -3,7 +3,7 @@ package bytedance;
 * @author vabook@163.com
 * @date 2019年4月25日 下午7:32:21
 * @reference https://www.nowcoder.com/discuss/99061
-* 字节跳动大闯关
+* 字节跳动大闯关 ,朋友关系
 */
 
 import java.util.HashMap;
@@ -13,7 +13,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 
-public class First {
+public class Relation {
 
 	public static class Node {
 

@@ -8,7 +8,7 @@ import java.util.Scanner;
 *  今日头条笔试题：输入一系列点，输出 一系列坐标系中最大的点（右方区域无点比其要高）。比其x大的，y都比它小
 *
 */
-public class Second {
+public class Point {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
